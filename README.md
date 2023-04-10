@@ -1,5 +1,6 @@
 # onscreenbookmark
 
-Extract the file and you will find .crx file in it also you can load unpacked by selecting the Helper-Sites (1) - V4 folder from chrome extension (developer enabled) page > load unpacked > extract zip > select Helper-Sites (1) - V4 folder from extracted items
+Extract the file and you will find .crx file that you can install by dragging into your extension page in chrome/edge. 
+Also, you can use load unpacked and select the extracted zip file folder
 
 https://youtu.be/r2AmhRTTjPM
